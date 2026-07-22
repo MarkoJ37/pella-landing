@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+.wrangler/
+dist/
+*.log
+.env
+
+# interni brief — ne ide u javni repo
+CLAUDE.md
